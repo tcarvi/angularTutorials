@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'conceitos/concepts',
+            docId: 'conceitos/angular',
             position: 'left',
             label: 'Tutorial',
           },
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/conceitos/concepts',
+                to: '/docs/conceitos/angular',
               },
             ],
           },
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Angular Tutorials, TCARVI. Built with Docusaurus.`,
+        copyright: `Angular Tutorials, © TCARVI ${new Date().getFullYear()}. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
