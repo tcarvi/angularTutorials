@@ -1,0 +1,25 @@
+{
+  "unversionedId": "components-primeng/objects",
+  "id": "components-primeng/objects",
+  "title": "PrimeNg Components",
+  "description": "",
+  "source": "@site/docs/22-components-primeng/01-objects.md",
+  "sourceDirName": "22-components-primeng",
+  "slug": "/components-primeng/objects",
+  "permalink": "/docs/components-primeng/objects",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/22-components-primeng/01-objects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/docs/testing/objects"
+  },
+  "next": {
+    "title": "Processing Markdown",
+    "permalink": "/docs/markdown/objects"
+  }
+}

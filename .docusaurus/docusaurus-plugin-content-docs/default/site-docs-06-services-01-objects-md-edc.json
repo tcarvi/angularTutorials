@@ -1,0 +1,25 @@
+{
+  "unversionedId": "services/objects",
+  "id": "services/objects",
+  "title": "Service",
+  "description": "",
+  "source": "@site/docs/06-services/01-objects.md",
+  "sourceDirName": "06-services",
+  "slug": "/services/objects",
+  "permalink": "/docs/services/objects",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06-services/01-objects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Component",
+    "permalink": "/docs/component/objects"
+  },
+  "next": {
+    "title": "Directive",
+    "permalink": "/docs/directive/objects"
+  }
+}

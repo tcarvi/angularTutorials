@@ -1,0 +1,178 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "conceitos/concepts",
+          "docs": [
+            {
+              "id": "accessibility/objects",
+              "path": "/docs/accessibility/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "change-detection/objects",
+              "path": "/docs/change-detection/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ciclo-de-vida-de-componentes/objects",
+              "path": "/docs/ciclo-de-vida-de-componentes/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/objects",
+              "path": "/docs/component/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "components-primeng/objects",
+              "path": "/docs/components-primeng/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/concepts",
+              "path": "/docs/conceitos/concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-binding/objects",
+              "path": "/docs/data-binding/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "directive/objects",
+              "path": "/docs/directive/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enum/objects",
+              "path": "/docs/enum/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environment/arquivo-de-configuracoes",
+              "path": "/docs/environment/arquivo-de-configuracoes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "event-binding/objects",
+              "path": "/docs/event-binding/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forms/objects",
+              "path": "/docs/forms/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTTP-Resquest/objects",
+              "path": "/docs/HTTP-Resquest/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "input-data/objects",
+              "path": "/docs/input-data/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interface/objects",
+              "path": "/docs/interface/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lazy-loading/objects",
+              "path": "/docs/lazy-loading/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "markdown/objects",
+              "path": "/docs/markdown/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module/objects",
+              "path": "/docs/module/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g-component",
+              "path": "/docs/ng-generate/ng-g-component",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g-directive",
+              "path": "/docs/ng-generate/ng-g-directive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g-module",
+              "path": "/docs/ng-generate/ng-g-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g-module-app-routing",
+              "path": "/docs/ng-generate/ng-g-module-app-routing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g-service",
+              "path": "/docs/ng-generate/ng-g-service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g1",
+              "path": "/docs/ng-generate/ng-g1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ng-generate/ng-g2",
+              "path": "/docs/ng-generate/ng-g2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "output-data/objects",
+              "path": "/docs/output-data/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pipe/objects",
+              "path": "/docs/pipe/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routing/routing",
+              "path": "/docs/routing/routing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "services/objects",
+              "path": "/docs/services/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testing/objects",
+              "path": "/docs/testing/objects",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/conceitos/concepts",
+                "label": "conceitos/concepts"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
