@@ -60,3 +60,47 @@ aio/content/examples/.DS_Store
 
 build/
 .docusaurus/
+
+# workspace-example-project
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/workspace-example-project/dist
+/workspace-example-project/tmp
+/workspace-example-project/out-tsc
+/workspace-example-project/bazel-out
+
+# Node
+/workspace-example-project/node_modules
+workspace-example-project/npm-debug.log
+workspace-example-project/yarn-error.log
+
+# IDEs and editors
+/workspace-example-project/.idea/
+/workspace-example-project/.project
+/workspace-example-project/.classpath
+/workspace-example-project/.c9/
+/workspace-example-project/*.launch
+/workspace-example-project/.settings/
+/workspace-example-project/*.sublime-workspace
+
+# Visual Studio Code
+/workspace-example-project/.vscode/*
+/workspace-example-project/!.vscode/settings.json
+/workspace-example-project/!.vscode/tasks.json
+/workspace-example-project/!.vscode/launch.json
+/workspace-example-project/!.vscode/extensions.json
+/workspace-example-project/.history/*
+
+# Miscellaneous
+/workspace-example-project/.angular/cache
+/workspace-example-project/.sass-cache/
+/workspace-example-project/connect.lock
+/workspace-example-project/coverage
+/workspace-example-project/libpeerconnection.log
+/workspace-example-project/testem.log
+/workspace-example-project/typings
+
+# System files
+/workspace-example-project/.DS_Store
+/workspace-example-project/Thumbs.db

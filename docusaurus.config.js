@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Angular Tutorials',
-  tagline: 'helper to angular coding',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'conceitos/angular',
+            docId: 'angular/general-view',
             position: 'left',
             label: 'Tutorial',
           },
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/conceitos/angular',
+                to: '/docs/angular/general-view',
               },
             ],
           },
